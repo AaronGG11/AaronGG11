@@ -4,7 +4,3 @@ He programador desde hace más de 4 años, a lo largo de mi trayectoria académi
 
 ## Áreas de interés
 Me siento más cómodo en el área de base de datos, de diseño y análisis, asi como en frontend. También gusto por el área de inteligencia artificial y procesamiento de datos. 
-
-## Lenguajes y herramientas 
-Pendiente
-
