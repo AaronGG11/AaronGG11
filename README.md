@@ -5,4 +5,7 @@ He programador desde hace más de 4 años, a lo largo de mi trayectoria académi
 ## Áreas de interés
 Me siento más cómodo en el área de base de datos, de diseño y análisis, asi como en frontend. También gusto por el área de inteligencia artificial y procesamiento de datos. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronGG11)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronGG11&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronGG11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
