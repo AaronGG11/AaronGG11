@@ -10,9 +10,6 @@ Me siento más cómodo en el área de base de datos, de diseño y análisis, asi
 
 
 ## Mi github
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronGG11&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronGG11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
