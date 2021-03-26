@@ -69,7 +69,7 @@ Me siento más cómodo en el área de base de datos, de diseño y análisis, asi
   <img src="https://img.utdstc.com/icon/9d1/681/9d168123f47316b11cc464b68f95751aa5709cc306e693324ad6d62c8db618d0:200" alt="tableu" width="40" height="40"/>
 </a>
 <a href="https://pandas.pydata.org/" target="_blank"> 
-  <img src="https://es.wikipedia.org/wiki/Pandas#/media/Archivo:Pandas_mark.svg" alt="tableu" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="pandas" width="40" height="40"/>
 </a>
 </p>
 
