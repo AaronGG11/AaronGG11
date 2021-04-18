@@ -87,6 +87,9 @@ Me siento más cómodo en el área de base de datos, de diseño y análisis, asi
   <a href="https://www.apple.com/mx/swift/" target="_blank"> 
     <img src="https://i.pinimg.com/originals/a2/e0/f2/a2e0f2b5fded97aae70891331349bb6f.png" alt="swift" width="40" height="40"/> 
   </a> 
+  <a href="https://www.r-project.org/about.html" target="_blank"> 
+    <img src="http://www.agrobiodiversidad.org/blog/wp-content/uploads/2012/12/RLogo1.png" alt="r" width="40" height="40"/> 
+  </a> 
 </p>
 
 ## Mi github
