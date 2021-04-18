@@ -73,6 +73,21 @@ Me siento más cómodo en el área de base de datos, de diseño y análisis, asi
 </a>
 </p>
 
+## Próximamente
+<p align="left"> 
+  <a href="https://www.djangoproject.com/" target="_blank"> 
+    <img src="https://gomma.mx/static/django-8a414d02a1344cee225e65b291686ed6.png" alt="django" width="40" height="40"/> 
+  </a> 
+ <a href="https://angular.io/" target="_blank"> 
+    <img src="https://cdn.iconscout.com/icon/free/png-256/angular-226066.png" alt="angular" width="40" height="40"/> 
+ </a> 
+ <a href="https://flutter.dev/" target="_blank"> 
+    <img src="https://miro.medium.com/max/512/1*20zBKPKIjnIR1yiE27oLsQ.png" alt="flutter" width="40" height="40"/> 
+ </a> 
+  <a href="https://www.apple.com/mx/swift/" target="_blank"> 
+    <img src="https://i.pinimg.com/originals/a2/e0/f2/a2e0f2b5fded97aae70891331349bb6f.png" alt="swift" width="40" height="40"/> 
+  </a> 
+</p>
 
 ## Mi github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronGG11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
