@@ -90,8 +90,8 @@ Me siento más cómodo en el área de base de datos, de diseño y análisis, asi
   <a href="https://www.r-project.org/about.html" target="_blank"> 
     <img src="http://www.agrobiodiversidad.org/blog/wp-content/uploads/2012/12/RLogo1.png" alt="r" width="40" height="40"/> 
   </a> 
-  <a href="https://www.r-project.org/about.html" target="_blank"> 
-    <img src="https://images.squarespace-cdn.com/content/v1/55fdfa38e4b07a55be8680a4/1585587699955-WPGLH5Y46EFHS7EXEKU1/ke17ZwdGBToddI8pDm48kHhlTY0to_qtyxq77jLiHTtZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7T-j82ScS_xjTqFYGqFrT72qZ_E0ELtHpOZiWcSG1QwIMeEVreGuQ8F95X5MZTW1Jw/icons8-power_bi.png?format=1000w" alt="Power Bi" width="40" height="40"/> 
+  <a href="https://powerbi.microsoft.com/es-es/" target="_blank"> 
+    <img src="https://cdn.iconscout.com/icon/free/png-256/power-bi-3244521-2701891.png" alt="Power Bi" width="40" height="40"/> 
   </a> 
 </p>
 
