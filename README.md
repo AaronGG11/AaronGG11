@@ -5,6 +5,12 @@ He programador desde hace más de 4 años, a lo largo de mi trayectoria académi
 ## Áreas de interés
 Me siento más cómodo en el área de base de datos, de diseño y análisis, asi como en frontend. También gusto por el área de inteligencia artificial y procesamiento de datos. 
 
+## Actualmente
+Estoy realizando mi trabajo terminal "Aplicación móvil de comercio para servicios turísticos en zona de Teotihuacán" y tomando clases de 
+- Data mining
+- Desarrollo de sistemas distribuidos
+- Introducción a los microcontroladores
+
 ## Conocimientos
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank"> 
