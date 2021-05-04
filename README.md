@@ -40,6 +40,9 @@ Estoy realizando mi trabajo terminal "Aplicación móvil de comercio para serv
 <a href="https://www.linux.org/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </a> 
+<a href="https://www.apple.com/" target="_blank"> 
+  <img src="https://watchinginternationaleconomy.files.wordpress.com/2017/05/1024px-apple_logo_black-svg.png?w=256&h=256" alt="apple" width="40" height="40"/> 
+</a> 
 <a href="https://mariadb.org/" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
 </a> 
