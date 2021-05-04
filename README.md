@@ -43,6 +43,9 @@ Estoy realizando mi trabajo terminal "Aplicación móvil de comercio para serv
 <a href="https://www.apple.com/" target="_blank"> 
   <img src="https://watchinginternationaleconomy.files.wordpress.com/2017/05/1024px-apple_logo_black-svg.png?w=256&h=256" alt="apple" width="40" height="40"/> 
 </a> 
+<a href="https://www.microsoft.com/es-es/software-download/windows10%20" target="_blank"> 
+  <img src="https://downloadly.net/wp-content/uploads/2020/03/Windows-10.png" alt="windows" width="40" height="40"/> 
+</a> 
 <a href="https://mariadb.org/" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
 </a> 
@@ -84,18 +87,18 @@ Estoy realizando mi trabajo terminal "Aplicación móvil de comercio para serv
 
 ## Próximamente
 <p align="left"> 
-  <a href="https://www.djangoproject.com/" target="_blank"> 
-    <img src="https://gomma.mx/static/django-8a414d02a1344cee225e65b291686ed6.png" alt="django" width="40" height="40"/> 
-  </a> 
  <a href="https://angular.io/" target="_blank"> 
     <img src="https://cdn.iconscout.com/icon/free/png-256/angular-226066.png" alt="angular" width="40" height="40"/> 
- </a> 
- <a href="https://flutter.dev/" target="_blank"> 
-    <img src="https://miro.medium.com/max/512/1*20zBKPKIjnIR1yiE27oLsQ.png" alt="flutter" width="40" height="40"/> 
  </a> 
   <a href="https://www.apple.com/mx/swift/" target="_blank"> 
     <img src="https://i.pinimg.com/originals/a2/e0/f2/a2e0f2b5fded97aae70891331349bb6f.png" alt="swift" width="40" height="40"/> 
   </a> 
+  <a href="https://www.djangoproject.com/" target="_blank"> 
+    <img src="https://gomma.mx/static/django-8a414d02a1344cee225e65b291686ed6.png" alt="django" width="40" height="40"/> 
+  </a> 
+ <a href="https://flutter.dev/" target="_blank"> 
+    <img src="https://miro.medium.com/max/512/1*20zBKPKIjnIR1yiE27oLsQ.png" alt="flutter" width="40" height="40"/> 
+ </a>
   <a href="https://www.r-project.org/about.html" target="_blank"> 
     <img src="http://www.agrobiodiversidad.org/blog/wp-content/uploads/2012/12/RLogo1.png" alt="r" width="40" height="40"/> 
   </a> 
