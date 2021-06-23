@@ -88,7 +88,7 @@ Estoy realizando mi trabajo terminal "Aplicación móvil de comercio para serv
 ## Próximamente
 <p align="left"> 
   <a href="https://spark.apache.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" alt="spark" width="40" height="40"/> 
+    <img src="https://blog.powerdata.es/hs-fs/hub/239039/file-612809676-png/images/spark_hadoop.png?width=271&height=271&name=spark_hadoop.png" alt="spark" width="40" height="40"/> 
  </a> 
   <a href="https://powerbi.microsoft.com/es-es/" target="_blank"> 
     <img src="https://cdn.iconscout.com/icon/free/png-256/power-bi-3244521-2701891.png" alt="Power Bi" width="40" height="40"/> 
