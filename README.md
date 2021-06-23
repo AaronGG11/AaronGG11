@@ -87,7 +87,16 @@ Estoy realizando mi trabajo terminal "Aplicación móvil de comercio para serv
 
 ## Próximamente
 <p align="left"> 
- <a href="https://angular.io/" target="_blank"> 
+  <a href="https://spark.apache.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" alt="spark" width="40" height="40"/> 
+ </a> 
+  <a href="https://powerbi.microsoft.com/es-es/" target="_blank"> 
+    <img src="https://cdn.iconscout.com/icon/free/png-256/power-bi-3244521-2701891.png" alt="Power Bi" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.r-project.org/about.html" target="_blank"> 
+    <img src="http://www.agrobiodiversidad.org/blog/wp-content/uploads/2012/12/RLogo1.png" alt="r" width="40" height="40"/> 
+  </a> 
+  <a href="https://angular.io/" target="_blank"> 
     <img src="https://cdn.iconscout.com/icon/free/png-256/angular-226066.png" alt="angular" width="40" height="40"/> 
  </a> 
   <a href="https://www.apple.com/mx/swift/" target="_blank"> 
@@ -99,12 +108,6 @@ Estoy realizando mi trabajo terminal "Aplicación móvil de comercio para serv
  <a href="https://flutter.dev/" target="_blank"> 
     <img src="https://miro.medium.com/max/512/1*20zBKPKIjnIR1yiE27oLsQ.png" alt="flutter" width="40" height="40"/> 
  </a>
-  <a href="https://www.r-project.org/about.html" target="_blank"> 
-    <img src="http://www.agrobiodiversidad.org/blog/wp-content/uploads/2012/12/RLogo1.png" alt="r" width="40" height="40"/> 
-  </a> 
-  <a href="https://powerbi.microsoft.com/es-es/" target="_blank"> 
-    <img src="https://cdn.iconscout.com/icon/free/png-256/power-bi-3244521-2701891.png" alt="Power Bi" width="40" height="40"/> 
-  </a> 
 </p>
 
 ## Mi github
