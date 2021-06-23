@@ -3,13 +3,11 @@ Me defino como una persona joven, estudiante y profesional lleno de energia y co
 He programador desde hace más de 4 años, a lo largo de mi trayectoria académica he trabajado en algunos proyectos escolares de diferentes áreas: Bases de datos, redes de computadoras, aplicaciones web, inteligencia aritificial (PLN) y aplicaciones de escritorio, donde he asumido roles de programador, diseñador, analista e incluso lider de proyecto.
 
 ## Áreas de interés
-Me siento más cómodo en el área de base de datos, de diseño y análisis, asi como en frontend. También gusto por el área de inteligencia artificial y procesamiento de datos. 
+Me siento muy interesado en ciencia de datos y desarrollo de aplicaciones móviles.
 
 ## Actualmente
-Estoy realizando mi trabajo terminal "Aplicación móvil de comercio para servicios turísticos en zona de Teotihuacán" y tomando clases de 
-- Data mining
-- Desarrollo de sistemas distribuidos
-- Introducción a los microcontroladores
+- Estoy realizando mi trabajo terminal "Aplicación móvil de comercio para servicios turísticos en zona de Teotihuacán", 
+- Curso de Apache Spark complementado con tecnologíass BI.
 
 ## Conocimientos
 <p align="left"> 
