@@ -7,6 +7,7 @@ Me siento muy interesado en ciencia de datos y desarrollo de aplicaciones móvil
 
 ## Actualmente
 - Estoy realizando mi trabajo terminal "Aplicación móvil de comercio para servicios turísticos en zona de Teotihuacán", 
+- Curso de machine learning con Python por IBM,
 - Curso de Apache Spark complementado con tecnologíass BI.
 
 ## Conocimientos
