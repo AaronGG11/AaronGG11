@@ -102,7 +102,7 @@ Me siento muy interesado en ciencia de datos y desarrollo de aplicaciones móvil
     <img src="https://i.pinimg.com/originals/a2/e0/f2/a2e0f2b5fded97aae70891331349bb6f.png" alt="swift" width="40" height="40"/> 
   </a> 
   <a href="https://www.djangoproject.com/" target="_blank"> 
-    <img src="https://gomma.mx/static/django-8a414d02a1344cee225e65b291686ed6.png" alt="django" width="40" height="40"/> 
+    <img src="https://1000marcas.net/wp-content/uploads/2021/06/Django-Logo.png" alt="django" width="40" height="40"/> 
   </a> 
  <a href="https://flutter.dev/" target="_blank"> 
     <img src="https://miro.medium.com/max/512/1*20zBKPKIjnIR1yiE27oLsQ.png" alt="flutter" width="40" height="40"/> 
