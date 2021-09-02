@@ -84,7 +84,7 @@ Me siento muy interesado en ciencia de datos y desarrollo de aplicaciones móvil
 </a>
 </p>
 
-## Próximamente
+## Conocimientos en curso 
 <p align="left"> 
   <a href="https://spark.apache.org/" target="_blank"> 
     <img src="https://blog.powerdata.es/hs-fs/hub/239039/file-612809676-png/images/spark_hadoop.png?width=271&height=271&name=spark_hadoop.png" alt="spark"         width="40" height="40"/> 
@@ -92,6 +92,11 @@ Me siento muy interesado en ciencia de datos y desarrollo de aplicaciones móvil
   <a href="https://www.scala-lang.org/" target="_blank"> 
     <img src="https://geekytheory.com//assets/images/icons/technologies/scala.png" alt="Scala" width="40" height="40"/> 
   </a> 
+ </p>
+ 
+ 
+## Próximamente
+
   <a href="https://powerbi.microsoft.com/es-es/" target="_blank"> 
     <img src="https://cdn.iconscout.com/icon/free/png-256/power-bi-3244521-2701891.png" alt="Power Bi" width="40" height="40"/> 
   </a> 
