@@ -1,5 +1,5 @@
 ### Hola mundo 👋
-Soy una persona joven, estudiante y profesional lleno de energia y compromiso, con muchas ganas de trabajar y aprender. 
+Soy una persona joven y profesional lleno de energia y compromiso, con muchas ganas de trabajar y aprender. 
 He programador desde hace más de 4 años, a lo largo de mi trayectoria académica he trabajado en algunos proyectos escolares de diferentes áreas: Bases de datos, redes de computadoras, aplicaciones web, inteligencia aritificial (PLN) y aplicaciones de escritorio, donde he asumido roles de programador, diseñador, analista e incluso lider de proyecto.
 
 ## Áreas de interés
