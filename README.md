@@ -5,10 +5,9 @@ He programador desde hace más de 4 años, a lo largo de mi trayectoria académi
 ## Áreas de interés
 Me siento muy interesado en ciencia de datos y desarrollo de aplicaciones móviles.
 
-## Actualmente
-- Estoy realizando mi trabajo terminal "Aplicación móvil de comercio para servicios turísticos en zona de Teotihuacán", 
+## Actualmente 
 - Curso de Apache Spark complementado con tecnologíass BI.
-- Nuevo ingreso en Indra Sistemas Mexico como Analista Big data
+- Nuevo ingreso en Santander México como Analista Big data
 
 ## Conocimientos
 <p align="left"> 
