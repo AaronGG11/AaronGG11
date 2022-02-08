@@ -7,7 +7,6 @@ Me siento muy interesado en ciencia de datos y desarrollo de aplicaciones móvil
 
 ## Actualmente 
 - Curso de Apache Spark complementado con tecnologíass BI.
-- Nuevo ingreso en Santander México como Analista Big data
 
 ## Conocimientos
 <p align="left"> 
