@@ -80,6 +80,9 @@ Me siento muy interesado en ciencia de datos y desarrollo de aplicaciones móvil
 <a href="https://pandas.pydata.org/" target="_blank"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="pandas" width="40" height="40"/>
 </a>
+<a href="https://pandas.pydata.org/" target="_blank"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/2276px-Apache_Hive_logo.svg.png" alt="pandas" width="40" height="40"/>
+</a>
 </p>
 
 ## Conocimientos en curso 
