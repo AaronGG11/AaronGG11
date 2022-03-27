@@ -50,7 +50,7 @@ Me siento muy interesado en ciencia de datos y desarrollo de aplicaciones móvil
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
 </a> 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
-  <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWGGWh" alt="mssql" width="80" height="40"/> 
+  <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWGGWh" alt="mssql" width="60" height="40"/> 
 </a> 
 <a href="https://www.mysql.com/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
