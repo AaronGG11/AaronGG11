@@ -40,9 +40,6 @@ Me siento muy interesado en ciencia de datos y desarrollo de aplicaciones móvil
 <a href="https://www.apple.com/" target="_blank"> 
   <img src="https://watchinginternationaleconomy.files.wordpress.com/2017/05/1024px-apple_logo_black-svg.png?w=256&h=256" alt="apple" width="40" height="40"/> 
 </a> 
-<a href="https://www.microsoft.com/es-es/software-download/windows10%20" target="_blank"> 
-  <img src="https://downloadly.net/wp-content/uploads/2020/03/Windows-10.png" alt="windows" width="40" height="40"/> 
-</a> 
 <a href="https://mariadb.org/" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
 </a> 
