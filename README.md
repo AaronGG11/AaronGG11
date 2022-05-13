@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AaronGG11&label=Profile%20views&color=0e75b6&style=flat" alt="mpcalzada" /> </p>
+
 ### Hola mundo 👋
 Soy una persona joven y profesional lleno de energia y compromiso, con muchas ganas de trabajar y aprender. 
 He programador desde hace más de 4 años, a lo largo de mi trayectoria académica he trabajado en algunos proyectos escolares de diferentes áreas: Bases de datos, redes de computadoras, aplicaciones web, inteligencia aritificial (PLN) y aplicaciones de escritorio, donde he asumido roles de programador, diseñador, analista e incluso lider de proyecto.
