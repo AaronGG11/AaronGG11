@@ -112,10 +112,8 @@ Me siento muy interesado en ciencia de datos y desarrollo de aplicaciones móvil
 ## Mi github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronGG11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mpcalzada&label=Profile%20views&color=0e75b6&style=flat" alt="mpcalzada" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AaronGG11&label=Profile%20views&color=0e75b6&style=flat" alt="AaronGG11" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mpcalzada" alt="mpcalzada" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mccalzada" target="blank"><img src="https://img.shields.io/twitter/follow/@mccalzada?logo=twitter&style=for-the-badge" alt="@mccalzada" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AaronGG11" alt="AaronGG11" /></a> </p>
 
 
